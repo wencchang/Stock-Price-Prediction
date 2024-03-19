@@ -1,1 +1,4 @@
 # Stock-Price-Prediction
+
+This study selected five representative publicly listed companies in Taiwan, including United Microelectronics Corporation (3711), Yuanta/P-shares Taiwan Top 50 ETF (0050), Taiwan Semiconductor Manufacturing Company (2330), MediaTek Inc. (2454), and United Integrated Services Co., Ltd. (2303), covering the semiconductor manufacturing, large-cap stock index fund, and other electronic product manufacturing sectors. The research data is divided into two main parts: training data and testing data. The training data ranges from the inception of each company's listing to January 1, 2023, while the testing data includes information from January 1, 2023, to the present. This time allocation aims to ensure the accuracy and adaptability of the model, while considering the importance of historical data and the impact of recent market conditions.
+
